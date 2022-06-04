@@ -4,4 +4,4 @@ main.remove();
 const newHeader = document.createElement('h1')
 newHeader.id = "victory"; //or the code below
 //newHeader.setAttribute("id", "victory");
-newHeader.innerHTML = "Snaida Kabalika is the champion";
+newHeader.innerHTML = "George Mwicigi is the champion";
